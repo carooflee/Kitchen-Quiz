@@ -82,12 +82,13 @@ body {
   /* Style the input */
   input {
     margin: 0;
-    border: none;
+    border: 5px;
     border-radius: 0;
-    width: 75%;
+    width: 25%;
     padding: 10px;
-    float: left;
+    float: auto;
     font-size: 16px;
+    background-color: gainsboro;
   }
   
   /* Style the "Add" button */
